@@ -22,3 +22,4 @@ Just refresh a webpage, F5 or CRTL + R.
 1. Your best speed of likes per second are in right panel.
 2. Your current speed is on the left panel.
 3. The total counter is on the center panel.
+4. When you have more than 60 messages You must going to read them because bot has a limit for this. You can change this at 6 line of script.js.
