@@ -2,6 +2,9 @@
 Automatic likes in the encounters on badoo.com website.
 It's my quick and small project, so I do not know how much I'll update in the future.
 
+# Screenshot
+![alt text](https://github.com/Cross77/AutolikeBadoo/raw/master/screenshot.png)
+
 # Instruction
 1. Login into badoo.com .
 2. Open encounters: badoo.com/encounters.
@@ -23,3 +26,4 @@ Just refresh a webpage, F5 or CRTL + R.
 2. Your current speed is on the left panel.
 3. The total counter is on the center panel.
 4. When you have more than 60 messages You must going to read them because bot has a limit for this. You can change this at 6 line of script.js.
+5. A lot of likes will increase your popularity.
